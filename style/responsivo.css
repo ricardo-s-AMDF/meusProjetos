@@ -1,6 +1,20 @@
 @media screen and (max-width: 1399px) {
-    .responsivo{
-        height: 350px!important;
-        width: 250px!important;
+    .responsivo {
+      width: 315px!important;
+    }
+  }
+  @media screen and (max-width: 1199px) {
+    .responsivo {
+      width: 280px!important;
+    }
+  }
+  @media screen and (max-width: 1199px) {
+    .responsivo {
+      width: 280px!important;
+    }
+  }
+  @media screen and (max-width: 991px) {
+    .responsivo {
+      width: 200px!important;
     }
   }
