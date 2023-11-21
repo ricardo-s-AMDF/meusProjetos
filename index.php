@@ -47,7 +47,7 @@
               <h4 class="text-white">Mais Informações</h4>
               <ul class="list-unstyled">
                 <li><a href="www.linkedin.com/in/ricardo-filho-b727b022b" class="text-white">LinkedIn</a></li>
-                <li><a href="#" class="text-white">GitHub</a></li>
+                <li><a href="https://github.com/ricardo-s-AMDF/meusProjetos" class="text-white">GitHub</a></li>
                 <li><a href="https://wa.me/554191984844" class="text-white">WhatsApp</a></li>
               </ul>
             </div>
