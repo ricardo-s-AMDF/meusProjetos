@@ -41,7 +41,7 @@
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
               <h4 class="text-white">Quem sou eu?</h4>
-              <p class="text-muted">Meu nome é Ricardo Ariel Mesquita Duarte Filho, tenho 22 anos, sou um Desenvolvedor Full Stack Júnior e apaixonado por Programação Web desde 2019, e desde estão quero crescer nessa área! Tenho formação técnica em Informática pelo SENAC, e futuramente formação em nível superior em Análise e Desenvolvimento de Sistemas pela Uninter</p>
+              <p class="text-muted">Meu nome é Ricardo Ariel Mesquita Duarte Filho, tenho 22 anos, sou um Desenvolvedor Back End PHP Júnior e apaixonado por Programação Web desde 2019, e desde estão quero crescer nessa área! Tenho formação técnica em Informática pelo SENAC, e superior em Análise e Desenvolvimento de Sistemas pela Uninter</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4 class="text-white">Mais Informações</h4>
