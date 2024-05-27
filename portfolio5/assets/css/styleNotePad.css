@@ -1,0 +1,25 @@
+h1{
+    font-size: 88px;
+}
+
+.clock{
+    width: 400px;
+    height: 230px;
+}
+.spaceRow{
+    row-gap: 50px;;
+}
+.positionButton{
+    cursor: pointer;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+}
+#homepage{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
